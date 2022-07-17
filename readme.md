@@ -1,0 +1,1 @@
+Next-JWT-Typescript boilerplate
